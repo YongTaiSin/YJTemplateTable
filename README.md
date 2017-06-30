@@ -1,4 +1,4 @@
-# YJTemplateTable-Master
+# YJTemplateTable
 用于快速创建静态表格与表单
 
 ## Screenshots
